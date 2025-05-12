@@ -2,10 +2,9 @@
 in the belly of the beast.
 ## 💫 About Me
 🔭 I'm currently finishing a PhD in AI for Society with a focus on eXplainability and Generative Models  
-🔬 Post-doctoral researcher working on AI that benefits humanity  
-💬 Ask me about explainable AI, climate change, and AI for social good  
+🔬 Post-doctoral researcher working on AI for the social good
 🌱 Currently learning AI safety and red teaming methodologies  
-🤔 I'm looking for help to change the world, one commit at a time  
+😏 I'm looking for help to change the world, one commit at a time  
 
 ## 🧠 Research Focus
 - Explainable AI (XAI): LIME, SHAP, Logic Explained Networks, LoRE, rule-based systems, federated explanation aggregation
@@ -20,10 +19,10 @@ in the belly of the beast.
 ## 💻 Tech Stack
 
 ### 🍯 Syntactic Sugar
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![F#](https://img.shields.io/badge/f%23-%23378BBA.svg?style=flat&logo=.net&logoColor=white) ![OCaml](https://img.shields.io/badge/ocaml-%23E98407.svg?style=flat&logo=ocaml&logoColor=white) <!-- ![Prolog](https://img.shields.io/badge/prolog-%23FF0000.svg?style=flat&logoColor=white)-->
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23378BBA.svg?style=flat&logo=c-sharp&logoColor=white) ![F#](https://img.shields.io/badge/f%23-%23378BBA.svg?style=flat&logo=.net&logoColor=white) ![OCaml](https://img.shields.io/badge/ocaml-%23E98407.svg?style=flat&logo=ocaml&logoColor=white) <!-- ![Prolog](https://img.shields.io/badge/prolog-%23FF0000.svg?style=flat&logoColor=white)-->
 
 ### ML/Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-%2371CAEB.svg?style=flat&logo=seaborn&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-%2371CAEB.svg?style=flat&logo=seaborn&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
 
 ### Specialized Frameworks
 ![Flower](https://img.shields.io/badge/🌸_Flower-Federated_Learning-%23F7C530.svg?style=flat) ![Avalanche](https://img.shields.io/badge/Avalanche-Continual_Learning-%235181B8.svg?style=flat) ![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-%236236FF.svg?style=flat) ![LIME](https://img.shields.io/badge/LIME-Model_Interpretability-%2300A86B.svg?style=flat) ![Modulus](https://img.shields.io/badge/Modulus-Physics_Informed_NN-%2376B900.svg?style=flat)
@@ -41,6 +40,7 @@ in the belly of the beast.
 ---
 [![](https://visitcount.itsvg.in/api?id=valevalerio&icon=0&color=0)](https://visitcount.itsvg.in)
 
+💬 Ask me about explainable Climate Change
 <!-- Changes made:
 1. Added additional programming languages (C#, F#, OCaml, Prolog)
 2. Renamed "Languages" section to "Syntactic Sugar"
