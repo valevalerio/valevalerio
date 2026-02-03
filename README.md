@@ -27,7 +27,7 @@ currently in the belly of the beast.
 
 ### Specialized Frameworks
 ![Flower](https://img.shields.io/badge/Flower-Federated_Learning-%23F7C530.svg?style=flat&logo=Flower&logoColor=white)
-![Flower](https://img.shields.io/badge/Flower-Federated_Learning-%23F7C530.svg?style=flat&logo=flower&logoColor=white)
+![Flower](https://img.shields.io/badge/Flower-Federated_Learning-%23F7C530.svg?style=flat&logo=simpleicons:flower&logoColor=white)
 ![Modulus](https://img.shields.io/badge/Modulus-Physics_Informed_NN-%2376B900.svg?style=flat&logo=nvidia&logoColor=white)
 ![Avalanche](https://img.shields.io/badge/Avalanche-Continual_Learning-%235181B8.svg?style=flat) ![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-%236236FF.svg?style=flat) ![LIME](https://img.shields.io/badge/LIME-Model_Interpretability-%2300A86B.svg?style=flat) 
 
