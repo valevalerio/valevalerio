@@ -27,7 +27,9 @@ currently in the belly of the beast.
 
 ### Specialized Frameworks
 ![Flower](https://img.shields.io/badge/Flower-Federated_Learning-%23F7C530.svg?style=flat&logo=Flower&logoColor=white)
-![Avalanche](https://img.shields.io/badge/Avalanche-Continual_Learning-%235181B8.svg?style=flat) ![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-%236236FF.svg?style=flat) ![LIME](https://img.shields.io/badge/LIME-Model_Interpretability-%2300A86B.svg?style=flat) ![Modulus](https://img.shields.io/badge/Modulus-Physics_Informed_NN-%2376B900.svg?style=flat&logo=nvidia&logoColor=white)
+![Flower](https://img.shields.io/badge/Flower-Federated_Learning-%23F7C530.svg?style=flat&logo=flower&logoColor=white)
+![Modulus](https://img.shields.io/badge/Modulus-Physics_Informed_NN-%2376B900.svg?style=flat&logo=nvidia&logoColor=white)
+![Avalanche](https://img.shields.io/badge/Avalanche-Continual_Learning-%235181B8.svg?style=flat) ![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-%236236FF.svg?style=flat) ![LIME](https://img.shields.io/badge/LIME-Model_Interpretability-%2300A86B.svg?style=flat) 
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
