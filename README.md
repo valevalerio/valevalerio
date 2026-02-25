@@ -33,15 +33,14 @@ currently in the belly of the beast.
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
 
+<!--
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=valevalerio&hide_border=false&include_all_commits=true&show_icons=true&theme=synthwave&count_private=true)<br/>
-
-
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=valevalerio&theme=dark&hide_border=false)<br/>-->
+![](https://github-readme-streak-stats.herokuapp.com/?user=valevalerio&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=valevalerio&theme=synthwave&hide_border=false)<br/>
 
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=valevalerio&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6&hide_progress=true&hide=jupyter%20notebook)
+-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=valevalerio&icon=0&color=0)](https://visitcount.itsvg.in)
