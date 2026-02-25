@@ -1,21 +1,21 @@
 # 👋 Valerio Bonsignori
 currently in the belly of the beast.
 ## 💫 About Me
-🔭 I'm currently finishing a PhD in AI for Society with a focus on eXplainability and Generative Models  
+🔭 Just got the PhD in AI for Society with a focus on eXplainability and Generative Models  
 🔬 Post-doctoral researcher working on AI for the social good  
-🌱 Currently learning AI safety and red teaming methodologies  
+🌱 Currently learning AI safety, red teaming techniques and transformers
 💬 Ask me about explainable Climate Change  
 😏 I'm looking for help to change the world, one commit at a time  
 
 ## 🧠 Research Focus
-- Explainable AI (XAI): LIME, SHAP, Logic Explained Networks, LoRE, rule-based systems, federated explanation aggregation
-- Knowledge representation and reasoning
 - AI for social good applications
 - Responsible AI development
-- Traffic flow reconstruction using traditional ML and continuous learning
-- Physics-informed neural networks for fluid and thermodynamic simulations
-- Federated learning with a focus on explainability
+- Knowledge representation and reasoning
+- Explainable AI (XAI): LIME, SHAP, Logic Explained Networks, LoRE, rule-based systems, federated explanation aggregation
 - Learning to Reject and Selective Classification
+- Federated learning with a focus on explainability
+- Physics-informed neural networks for fluid and thermodynamic simulations
+- Traffic flow reconstruction using traditional ML and continuous learning
 
 ## 💻 Tech Stack
 
