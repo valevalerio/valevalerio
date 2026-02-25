@@ -40,19 +40,10 @@ currently in the belly of the beast.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=valevalerio&theme=synthwave&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=valevalerio&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6&hide_progress=true&hide=jupyter%20notebook)
--->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=valevalerio&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valerio-bonsignori-2116b9220/)
-<!-- Changes made:
-1. Added additional programming languages (C#, F#, OCaml, Prolog)
-2. Renamed "Languages" section to "Syntactic Sugar"
-3. Expanded Research Focus section with detailed areas
-4. Added Unity and Blender to Tools & Technologies
-5. Added Modulus to Specialized Frameworks
-6. Added emoji to Flower and Modulus badges
-7. Enhanced existing sections with more comprehensive information
 -->
