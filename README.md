@@ -1,9 +1,9 @@
 # 👋 Valerio Bonsignori
 currently in the belly of the beast.
 ## 💫 About Me
-🔭 Just got the PhD in AI for Society with a focus on eXplainability and Generative Models  
-🔬 Post-doctoral researcher working on AI for the social good  
-🌱 Currently learning AI safety, red teaming techniques and transformers
+🔭 PhD in AI for Society with a focus on eXplainability and Generative Models  
+🔬 Postdoctoral researcher working on AI for the social good  
+🌱 Currently learning AI safety, red teaming techniques, and transformers
 💬 Ask me about explainable Climate Change  
 😏 I'm looking for help to change the world, one commit at a time  
 
@@ -47,3 +47,8 @@ currently in the belly of the beast.
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valerio-bonsignori-2116b9220/)
 -->
+
+### Real World links
+Member of the Knowledge Discovery and Data Mining Laboratory https://kdd.isti.cnr.it/ @ Scuola Normale Superiore https://www.sns.it
+Member of the XAI project https://xai-project.eu/
+Ph.D. in AI from the Italian National Doctoral Program https://www.phd-ai.it/
