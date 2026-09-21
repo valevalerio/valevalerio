@@ -49,6 +49,7 @@ currently in the belly of the beast.
 -->
 
 ## 🌐 Real World links
-Member of the research group [Knowledge Discovery and Data Mining Laboratory](https://kdd.isti.cnr.it/) @ [Scuola Normale Superiore](https://www.sns.it), [DHAI group](https://www.sns.it/en/dhai-data-science-and-human-centered-artificial-intelligence)
+Member of the research group [Knowledge Discovery and Data Mining Laboratory](https://kdd.isti.cnr.it/)(KDD)  
+Division of KDD @ [Scuola Normale Superiore](https://www.sns.it), [DHAI group](https://www.sns.it/en/dhai-data-science-and-human-centered-artificial-intelligence)  
 Member of the [XAI Research Group](https://xai-project.eu/)  
 Ph.D. in AI from the [Italian National Doctoral Program](https://www.phd-ai.it/)  
