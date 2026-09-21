@@ -4,7 +4,7 @@ currently in the belly of the beast.
 🔭 PhD in AI for Society with a focus on eXplainability and Generative Models  
 🔬 Postdoctoral researcher working on AI for the social good  
 🌱 Currently learning AI safety, red teaming techniques, and transformers
-💬 Ask me about explainable Climate Change
+💬 Ask me about explainable Climate Change  
 😏 I'm looking for help to change the world, one commit at a time  
 
 ## 🧠 Research Focus
@@ -44,11 +44,11 @@ currently in the belly of the beast.
 ---
 [![](https://visitcount.itsvg.in/api?id=valevalerio&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Socials
+##  Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valerio-bonsignori-2116b9220/)
 -->
 
-### Real World links
-Member of the [Knowledge Discovery and Data Mining Laboratory](https://kdd.isti.cnr.it/) @ [Scuola Normale Superiore](https://www.sns.it)
-Member of the [XAI Research Group](https://xai-project.eu/)
-Ph.D. in AI from the [Italian National Doctoral Program](https://www.phd-ai.it/)
+## 🌐 Real World links
+Member of the [Knowledge Discovery and Data Mining Laboratory](https://kdd.isti.cnr.it/) @ [Scuola Normale Superiore](https://www.sns.it)  
+Member of the [XAI Research Group](https://xai-project.eu/)  
+Ph.D. in AI from the [Italian National Doctoral Program](https://www.phd-ai.it/)  
