@@ -12,7 +12,7 @@ currently in the belly of the beast.
 - Responsible AI development
 - Knowledge representation and reasoning
 - Agentic AI
-- Explainable AI (XAI): LIME, SHAP, Concept Bottleneck Models (Logic Explained Networks), LoRE, rule-based systems, federated explanation aggregation
+- Explainable AI (XAI): LIME, SHAP, Concept Bottleneck Models, LoRE, rule-based systems, federated explanation aggregation
 - Learning to Reject and Selective Classification
 - Federated learning with a focus on explainability
 - Physics-informed neural networks for fluid and thermodynamic simulations
